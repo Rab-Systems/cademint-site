@@ -1,2 +1,2 @@
 # cademint-site
-Site do produto Cademint
+Site de apresentação do produto Cademint
